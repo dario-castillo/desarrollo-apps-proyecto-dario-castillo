@@ -1,0 +1,27 @@
+{
+    "items":[ 
+        {
+        "id": 4,
+        "title": "Ventress",
+        "price": 4000,
+        "category": "Color",
+        "description":"Hecho en un software libre llamado Krita",
+        "thumbnail": "https://i.imgur.com/qr8aTkK.jpg",
+        "stock": 3,
+        "quantity":2
+      },
+      {
+        "id": 1,
+        "title": "Lobo",
+        "price": 6000,
+        "category": "Color",
+        "description":"Dibujo realizado en Clip Studio Paint",
+        "thumbnail": "https://i.imgur.com/SL0lI8u.jpg",
+        "stock": 3,
+        "quantity":3
+      } 
+    ], 
+    "total":10000
+}
+
+

@@ -1,0 +1,56 @@
+[
+    {
+      "id": 0,
+      "title": "Batman",
+      "price": 6000,
+      "category": "Blanco y Negro",
+      "description":"Dibujo digital hecho en Procreate",
+      "thumbnail": "https://i.imgur.com/8Tzm8qB.jpg",
+      "stock": 3
+    },
+    {
+      "id": 1,
+      "title": "Lobo",
+      "price": 6000,
+      "category": "Color",
+      "description":"Dibujo realizado en Clip Studio Paint",
+      "thumbnail": "https://i.imgur.com/SL0lI8u.jpg",
+      "stock": 3
+    },
+    {
+      "id": 2,
+      "title": "The Thing",
+      "price": 6000,
+      "category": "Color",
+      "description":"Ilustración digital pintada en Photoshop",
+      "thumbnail": "https://i.imgur.com/ccebEXv.jpg",
+      "stock": 3
+    },
+    {
+      "id": 3,
+      "title": "Jhon Wick",
+      "price": 3000,
+      "category": "Blanco y Negro",
+      "description":"Realizado en MediBang Paint",
+      "thumbnail": "https://i.imgur.com/DBPIauc.jpg",
+      "stock": 3
+    },
+    {
+      "id": 4,
+      "title": "Ventress",
+      "price": 4000,
+      "category": "Color",
+      "description":"Hecho en un software libre llamado Krita",
+      "thumbnail": "https://i.imgur.com/qr8aTkK.jpg",
+      "stock": 3
+    },
+    {
+      "id": 5,
+      "title": "The Punisher",
+      "price": 3000,
+      "category": "Blanco y Negro",
+      "description":"Dibujo en tintas",
+      "thumbnail": "https://i.imgur.com/Ej2KP1H.jpg",
+      "stock": 3
+    }
+  ]

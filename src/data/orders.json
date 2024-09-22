@@ -1,0 +1,60 @@
+[
+    {
+        "id":2,
+        "userId":3,
+        "total":10000,
+        "createdAt":1726068620,
+        "items":[
+            {
+                "id": 4,
+                "title": "Ventress",
+                "price": 4000,
+                "category": "Color",
+                "description":"Hecho en un software libre llamado Krita",
+                "thumbnail": "https://i.imgur.com/qr8aTkK.jpg",
+                "stock": 3,
+                "quantity":2
+              },
+              {
+                "id": 5,
+                "title": "The Punisher",
+                "price": 3000,
+                "category": "Blanco y Negro",
+                "description":"Dibujo en tintas",
+                "thumbnail": "https://i.imgur.com/Ej2KP1H.jpg",
+                "stock": 3,
+                "quantity":2
+              }
+            
+        ]
+    },
+    {
+      "id":3,
+      "userId":3,
+      "total":10000,
+      "createdAt":1726478440,
+      "items":[
+          {
+              "id": 4,
+              "title": "Ventress",
+              "price": 4000,
+              "category": "Color",
+              "description":"Hecho en un software libre llamado Krita",
+              "thumbnail": "https://i.imgur.com/qr8aTkK.jpg",
+              "stock": 3,
+              "quantity":2
+            },
+            {
+              "id": 5,
+              "title": "The Punisher",
+              "price": 3000,
+              "category": "Blanco y Negro",
+              "description":"Dibujo en tintas",
+              "thumbnail": "https://i.imgur.com/Ej2KP1H.jpg",
+              "stock": 3,
+              "quantity":2
+            }
+          
+      ]
+  }
+]
